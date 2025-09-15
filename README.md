@@ -1,3 +1,5 @@
+<img width="622" height="270" alt="image" src="https://github.com/user-attachments/assets/48e28e76-300a-45b8-8d12-1987c4e52bad" />
+
 ✨ Features
 Multimodal Input/Output: Supports text, image, and audio generation.
 
