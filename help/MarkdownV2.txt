@@ -1,0 +1,11 @@
+MarkdownV2
+**sdf./}[]{,!@#$%
+*Bold*
+_Italic_
+__Underline__
+~strikethrough~
+||Spoiler||
+`Code`
+```python
+Block of code
+```
